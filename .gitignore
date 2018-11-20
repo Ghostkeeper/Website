@@ -1,0 +1,2 @@
+#The actual data of this website is stored in XML files. I don't want these data to be under version control.
+*.xml
